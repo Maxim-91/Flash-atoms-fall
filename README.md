@@ -12,4 +12,9 @@ Animation "Flight of atoms".
 ### 04_O.swf
 Animation "Cooling".
 
-### 04_O.swf
+### Flash розробки
+The folder contains developments, in addition to swf files, also fla files.
+fla is the Macromedia Flash Project File Format created by Adobe Animate, an interactive multimedia software that lets you create vector graphics, animations for television and the web, games, and more.
+
+### Flash-HTML
+The folder contains swf files and html files.
